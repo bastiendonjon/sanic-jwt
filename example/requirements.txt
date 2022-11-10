@@ -30,13 +30,13 @@ pycparser==2.18
 pyjwt==1.5.3
 pytest==3.5.0
 python-dateutil==2.6.1
-pyyaml==3.12
+pyyaml==5.4
 requests==2.18.4
-sanic==0.7.0
+sanic==20.12.6
 six==1.11.0
-ujson==1.35
+ujson==5.4.0
 urllib3==1.22
 uvloop==0.8.1
 watchdog==0.8.3
-websockets==4.0.1
+websockets==10.0
 yarl==0.14.2
