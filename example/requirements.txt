@@ -40,3 +40,4 @@ uvloop==0.8.1
 watchdog==0.8.3
 websockets==4.0.1
 yarl==0.14.2
+setuptools>=65.5.1 # not directly required, pinned by Snyk to avoid a vulnerability
